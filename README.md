@@ -74,4 +74,5 @@ If desired, the user can make the small changes required to get the cases to wor
 
 ### References ###
 [1] S. A. Rodriguez L. and P. Cardiff, \A general approach for running python codes in openfoam using an embedded pybind11 python interpreter,"OpenFOAM® Journal, vol. 2, p. 166{182, Dec. 2022. [Online]. Available: http://dx.doi.org/10.51560/ofj.v2.79
+
 [2]	W. Jakob, J. Rhinelander, and D. Moldovan, “pybind11 – Seamless operability between C++11 and Python.” 2017.
